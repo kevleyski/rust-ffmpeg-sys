@@ -1,6 +1,6 @@
 [package]
 name    = "ffmpeg-sys-next"
-version = "4.3.5"
+version = "9.3.5"
 build   = "build.rs"
 links   = "ffmpeg"
 
@@ -8,7 +8,7 @@ authors = ["meh. <meh@schizofreni.co>", "Zhiming Wang <i@zhimingwang.org>"]
 license = "WTFPL"
 
 description = "FFI bindings to FFmpeg"
-repository  = "https://github.com/zmwangx/rust-ffmpeg-sys"
+repository  = "https://github.com/kevleyski/rust-ffmpeg-sys"
 keywords    = ["audio", "video"]
 
 [lib]
